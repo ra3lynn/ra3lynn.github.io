@@ -1,5 +1,7 @@
 # Raelynn Lalunio's Portfolio
 
-I am a computer science major at California State University Fullerton and I plan to graduate in 2028
+My name is Raelynn Lalunio and I am a student at [CSUF] and my major is Computer Science.
+
+My GitHub page is https://github.com//ra3lynn
 
 ## My Favorite CPSC 120L Labs
