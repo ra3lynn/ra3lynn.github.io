@@ -8,10 +8,11 @@ My GitHub page is http://github.com//ra3lynn
 
 **Lab 3, part 2**
 
-    The second part of this lab was one of my favorites because I always struggle with figuring out the number of days between two different dates. Most of the time I search it up, but with this lab I was able to write functions that could help calculate date differences. 
+*  The second part of this lab was one of my favorites because I always struggle with figuring out the number of days between two different dates. Most of the time I search it up, but with this lab I was able to write functions that could help calculate date differences. 
 
 **Lab 8, part 2**
-    This second part of lab 8 was another one of my favorites. I thought this lab was really interesting because the program made a cool pattern as the output. Even though the pattern would be difficult to make typing out each individual character this lab used 3 loops to create the pattern.
+
+* This second part of lab 8 was another one of my favorites. I thought this lab was really interesting because the program made a cool pattern as the output. Even though the pattern would be difficult to make typing out each individual character this lab used 3 loops to create the pattern.
 
 **Lab 10, part 1**
 
