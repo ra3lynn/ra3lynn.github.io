@@ -8,7 +8,7 @@ My GitHub page is <https://github.com/ra3lynn>.
 
 **Lab 3, part 2**
 
-*  The second part of this lab was one of my favorites because I always struggle with figuring out the number of days between two different dates. Most of the time I search it up, but with this lab I was able to write functions that could help calculate date differences. 
+*  The second part of this lab was one of my favorites because I always struggle with figuring out the number of days between two different dates. Most of the time I search it up, but with this lab I was able to write functions that could help calculate date differences. Moreover, one of these functions consisted of converting the two dates into Julian Days, something I have never heard before.
 
 **Lab 8, part 2**
 
@@ -16,4 +16,4 @@ My GitHub page is <https://github.com/ra3lynn>.
 
 **Lab 10, part 1**
 
-* Lab 10 was one of my favorites because I thought it was pretty interesting seeing how California's population is distributed between all the counties. Additionally, I was able to learn about counties that I have never learned before as a born and raised Californian. For this lab 2D vectors were used to search through and find the population of the specific county given. 
+* Lab 10 was one of my favorites because I thought it was pretty interesting seeing how California's population is distributed between all the counties. Additionally, I was able to learn about counties that I have never learned before as a born and raised Californian. For this lab 2D vectors were used to search through to find and print the population of the specific county given.
