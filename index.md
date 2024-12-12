@@ -2,11 +2,11 @@
 
 My name is Raelynn Lalunio and I am a student at [CSUF](https://www.fullerton.edu/) and my major is Computer Science.
 
-My GitHub page is http://github.com//ra3lynn
+My GitHub page is (https://github.com/ra3lynn).
 
 ## My Favorite CPSC 120L Labs
 
-**Lab 3, part 2**
+***Lab 3, part 2**
 
 *  The second part of this lab was one of my favorites because I always struggle with figuring out the number of days between two different dates. Most of the time I search it up, but with this lab I was able to write functions that could help calculate date differences. 
 
